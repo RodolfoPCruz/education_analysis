@@ -53,7 +53,7 @@ O top 100 das melhores universidades do mundo é dominado por universidades amer
 
 Entre as universidades brasileiras, a melhor colocada em 2024 foi a USP, na posição 236. As 10 melhores brasileiras e suas posições no ranking geral são as seguintes:
 
-![](https://github.com/RodolfoPCruz/education_analysis/blob/master/Times%20Higher%20Education/images/top_brasileiras.png)
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/Times%20Higher%20Education/images/top_brasileiras)
 
 
 
