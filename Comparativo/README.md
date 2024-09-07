@@ -127,3 +127,17 @@ Os dois países com as melhores universidades do mundo, EUA e Reino Unido, não 
 
 ![investimento_privado_prob_pib](/Comparativo/images/investimento_privado_prob_pib.png)
 
+Para que universidades se destaquem mundialmente são necessários investimentos vultuosos. A pesquisa de ponta desenvolvida nas universidades de alto nível requer muito dinheiro. Por isso é importante que os valores investidos sejam analisados na forma absoluta. Países com PIBs grandes podem ter investimentos elevados mesmo que eles correspondam a uma pequena fração de seus PIBs. No gráfico da Figura 7 são apresentados os 10 países com maiores investimentos públicos em educação. No conjunto de dados essa informação não estava disponível para a China, caso contrário ela apareceria no gráfico da Figura 7. Os EUA investiram aproximadamente 5 vezes mais que a Alemanha, que aparece na segunda posição no top 10. Além disso, como citado anteriormente, contam com abundante investimento privado no ensino superior. O volume do investimento americano explica a predominância de suas universidades entre as melhores do mundo. Além do investimento alto na educação superior, o investimento americano massivo em educação básica e secundária (Figura 5) garante a disponibilidade de talentos qualificados para ingressarem nas universidades. Já o Brasil faz elevados investimentos, porém suas universidades não tem destaque mundial. No total investido aparecemos na frente de Austrália, Canadá e Coréia do Sul. Enquanto esses países possuíam inúmeras universidades no top 100 de pelos menos algum dos rankings, o Brasil não possuía nenhuma em 2020. Isso mostra que o Brasil gere mal seus recursos. Outro fator para explicar o desempenho ruim das universidades brasileiras é a péssima qualidade da educação básica no Brasil. Nos resultados do PISA (Programa Internacional de Avaliação de Alunos) de 2022 os estudantes brasileiros tiveram desempenho abaixo da média dos países da OCDE em Matemática, Leitura e Ciências [1].
+
+![top10_investimento_uss](/Comparativo/images/top10_investimento_uss.png)
+
+Para ilustrar a dependência do desempenho das universidades com relação ao volume investido pelos países o boxplot da Figura 8 apresenta o investimento em educação separado entre países que tem ao menos uma universidade em algum dos top 100 e os que não tem nenhuma. A diferença na posição dos boxplots mostra como o investimento é maior nos países com universidades bem colocadas nos rankings.
+
+![investimento_uss_top_100](/Comparativo/images/investimento_uss_top_100.png)
+
+Para facilitar a visualização os países no mapa múndi da Figura 9 estão coloridos de acordo com o investimento público em educação. Para a construção desse mapa foram usados os dados para 2017, por estarem disponíveis para uma maior quantidade de países. Os investimentos foram quantizados em 5 quantiles, ou seja, se o investimento de um país está no grupo very low, isso quer dizer que 80% dos países tem investimento em educação superior ao dele. A maior parte dos países com investimento classificado como very high ou high estão na América do Norte e Europa, regiões que concentram as melhores universidades do mundo, enquanto os com classificação low e very low estão em sua maioria na África.
+
+![maiores_invetimentos categorizados](/Comparativo/images/maiores_invetimentos categorizados.png)
+
+
+
