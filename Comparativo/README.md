@@ -154,5 +154,10 @@ Para facilitar a visualização os países no mapa múndi da Figura 9 estão col
 
 ![maiores_invetimentos categorizados](/Comparativo/images/maiores_invetimentos_categorizados.png)
 
+# Referências
+
+[1] BRASIL. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep). Notas sobre o Brasil no Pisa 2022. Brasília, DF: Inep,
+2023.
+
 
 
