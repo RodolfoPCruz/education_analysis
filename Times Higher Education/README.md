@@ -9,6 +9,15 @@ Esse projeto apresenta uma análise dos rankings das melhores universidades do m
 - Verificar a distribuição geográfica das universidades melhores colocadas nos rankings;
 - Comparar o desempenho das universidades brasileiras com as primeiras colocadas no ranking.
 
+## Resumo
+
+- A Universidade de Oxford é a melhor universidade do mundo em 2024 segundo o ranking THE;
+- A Universidade de Oxford mantém a primeira colocação desde 2027;
+- O top 10 de 2024 é composto somente por universidades americanas e do Reino Unido;
+- O top 100 é dominado por universidades da América do Norte e da Europa;
+- A USP é a universidade brasileira melhor colocada, ficando entre as 250 melhores no ano de 2024;
+- As universidades brasileiras estão muito atrás dos centros de excelência globais mas se destacam entre as latino-americanas.
+
 ## Instalação 
 
 Para o desenvolvimento desse projeto foi utilizada a distribuição Anaconda. Para reproduzir o ambiente usado é necessário instalar a distribuição Anaconda e em seguida criá-lo com o uso do arquivo enviroment.yml disponibilizado neste repositório. O comando que deverá ser usado no terminal do linux para criação do ambiente é o seguinte:
@@ -55,7 +64,7 @@ A Universidade de Oxford é a melhor universidade do mundo segundo o ranking THE
 
 ### Top 100
 
-O predomínio de universidades americanas e do Reino Unido encontrada entre as 10 melhores universidades do mundo permanece quando são consideradas as 100 melhores. Dentre as 100, 47 universidades estão nesses dois países, conforme pode ser visto na tabela 4.  Além disso, 75 delas estão na Europa ou na América do Norte, e somente 6 no hemisfério sul (Figura 1).
+O predomínio de universidades americanas e do Reino Unido encontrada entre as 10 melhores universidades do mundo permanece quando são consideradas as 100 melhores. Dentre as 100, 47 universidades estão nesses dois países, conforme pode ser visto na Tabela 4.  Além disso, 75 delas estão na Europa ou na América do Norte, e somente 6 no hemisfério sul (Figura 1).
 
 ![](https://github.com/RodolfoPCruz/education_analysis/blob/master/Times%20Higher%20Education/images/4-localizacao-top100.png)
 
@@ -63,17 +72,17 @@ O predomínio de universidades americanas e do Reino Unido encontrada entre as 1
 
 ### Rankings Específicos para Cada Fator
 
-Para o calculo da pontuação geral das universidades a THE adota uma metodologia que emprega 5 fatores, são eles: ensino, pesquisa, citações, internacionalização e inovação. As universidades receberam uma nota para cada um desses cinco fatores. A nota final é uma média ponderada desses cinco fatores. Na Tabela 5 as universidades aparecem ordenadas de acordo com suas notas para cada um dos fatores. Interessante notar que a Universidade de Oxford lidera na pontuação geral, porém não está em primeiro em nenhum dos cinco fatores isolados.
+Para o calculo da pontuação geral das universidades a THE adota uma metodologia que emprega 5 fatores, são eles: ensino, pesquisa, citações, internacionalização e inovação. As universidades receberam uma nota para cada um desses cinco fatores e a nota final é uma média ponderada desses cinco fatores. Na Tabela 5 as universidades aparecem ordenadas de acordo com suas notas para cada um dos fatores. Interessante notar que a Universidade de Oxford lidera na pontuação geral, porém não está em primeiro em nenhum dos cinco fatores isolados.
 
 ![](https://github.com/RodolfoPCruz/education_analysis/blob/master/Times%20Higher%20Education/images/6-ranking_fatores.png)
 
 ### Universidades Brasileiras
 
-Entre as universidades brasileiras, a melhor colocada em 2024 foi a USP, na posição 236. As 10 melhores brasileiras e suas posições no ranking geral são apresentadas na Tabela 6. A USP e a Unicamp vem se mantendo como as duas melhores brasileiras em todos os ranking publicados desde 2012.
+Entre as universidades brasileiras, a melhor colocada em 2024 foi a USP, na posição 236. As 10 melhores brasileiras e suas posições no ranking geral são apresentadas na Tabela 6. A USP e a Unicamp vem se mantendo como as duas melhores brasileiras em todos os rankings publicados desde 2012.
 
 ![](https://github.com/RodolfoPCruz/education_analysis/blob/master/Times%20Higher%20Education/images/7-top_brasileiras.png)
 
-As universidades brasileiras ficam muito atrás dos centros de excelência mundiais. Na Tabela 7 são apresentadas as notas da USP e da Unicamp relativas a 2024 e dados estatísticos a respeito das 10 primeiras colocadas. Elas se saem melhor quando comparadas com as universidades da América Latina. Na Tabela 8 é apresentado o top 10 de 2024 considerando somente universidades dessa região, onde cinco das 10 universidades são brasileiras. 
+As universidades brasileiras ficam muito atrás dos centros de excelência mundiais. Na Tabela 7 são apresentadas as notas da USP e da Unicamp relativas a 2024 e dados estatísticos a respeito das 10 primeiras colocadas. As universidades brasileiras se destacam quando comparadas com as universidades da América Latina. Na Tabela 8 é apresentado o top 10 de 2024 considerando somente universidades dessa região, onde cinco das 10 universidades são brasileiras. 
 
 ![](https://github.com/RodolfoPCruz/education_analysis/blob/master/Times%20Higher%20Education/images/8-comparativo_brasileiras_top10.png)
 
