@@ -16,6 +16,21 @@ Para acrescentar informações a análise serão investigados alguns dados relat
 
 Buscar as melhores universidades do mundo em  três dos mais importantes rankings universitários e comparar o desempenho delas em cada um dos rankings. Analisar dados a respeito da educação nos países para buscar entender porque as universidades de certos países tem posição de destaque.
 
+# Resumo
+
+- As melhores universidades do mundo estão concentradas em poucos países;
+- A Universidade de Oxford ocupa a primeira posição do ranking THE desde 2017;
+- O MIT está na primeira posição do ranking QS desde 2017;
+- A Universidade de Harvard vem ocupando a primeira publicação do ranking em 2003;
+- Os top 10 mais recentes dos três rankings são dominados por universidades americanas e do Reino Unido;
+- Considerando os top 100 mais recentes, entre 40% e 50% das universidades em cada top 100  são americanas ou do Reino Unido;
+- A USP é a universidade brasileira melhor colocada em todos os rankings analisados;
+- A melhor posição já alcançada por uma universidade brasileira foi a 85° posição alcançada pela USP no ranking QS de 2024;
+- Os países cujas populações acima de 5 anos de maiores escolaridade média tem universidades com melhores desempenhos nos rankings;
+- Países pequenos de renda elevada são os com maiores investimentos em educação como proporção de seus PIBs, Porém, por serem países pequenos, suas universidades não de destacam;
+- Os países com a melhores universidades no ranking investem mais em educação;
+- Brasil investe alto em educação superior, mas suas universidades não se destacam.
+
 # Instalação
 
 Para o desenvolvimento desse projeto foi utilizada a distribuição Anaconda. Para reproduzir o ambiente usado é necessário instalar o Anaconda e em seguida criar o ambiente com o uso do arquivo enviroment.yml disponibilizado. O comando que deverá ser usado no terminal do linux para criação do ambiente é o seguinte:
@@ -137,7 +152,7 @@ Para ilustrar a dependência do desempenho das universidades com relação ao vo
 
 Para facilitar a visualização os países no mapa múndi da Figura 9 estão coloridos de acordo com o investimento público em educação. Para a construção desse mapa foram usados os dados para 2017, por estarem disponíveis para uma maior quantidade de países. Os investimentos foram quantizados em 5 quantiles, ou seja, se o investimento de um país está no grupo very low, isso quer dizer que 80% dos países tem investimento em educação superior ao dele. A maior parte dos países com investimento classificado como very high ou high estão na América do Norte e Europa, regiões que concentram as melhores universidades do mundo, enquanto os com classificação low e very low estão em sua maioria na África.
 
-![maiores_invetimentos categorizados](/Comparativo/images/maiores_invetimentos categorizados.png)
+![maiores_invetimentos categorizados](/Comparativo/images/maiores_invetimentos_categorizados.png)
 
 
 
