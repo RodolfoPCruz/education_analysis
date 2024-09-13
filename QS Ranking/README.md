@@ -6,7 +6,7 @@ Esse projeto apresenta uma análise dos rankings das melhores universidades do m
 
 ## Objetivo
 
-Identificar quais são as melhores universidades do mundo segundo o QS World University Rankings e em que pontos elas se destacam. Verificar a distribuição geográfica das melhores universidades do mundo. Comparar o desempenho das universidades brasileiras, em especial da Unicamp em que sou aluno de doutorado atualmente, com as melhores do mundo.
+Identificar quais são as melhores universidades do mundo segundo o QS World University Rankings e em que pontos elas se destacam. Verificar a distribuição geográfica das melhores universidades do mundo. Comparar o desempenho das universidades brasileiras com as melhores do mundo.
 
 ## Instalação 
 
@@ -44,7 +44,20 @@ Os datasets consistem nos rankings das melhores universidades do mundo para cada
 
   https://www.kaggle.com/datasets/padhmam/qs-world-university-rankings-2017-2022
 
-Os datasets contam com a pontuação geral obtida por cada universidade , bem como a pontuação para diversos fatores que foram levados em conta para a obtenção da pontuação geral. Alguns fatores considerados são reputação acadêmica, quantidade de citações, proporção de professores e alunos estrangeiros, etc. A metodologia para a construção dos rankings sofreu alteração em 2023, para informações a respeito da metodologia empregada nos rankings anteriores a 2023 acesse o seguinte link:
+Os datasets contam com a pontuação geral obtida por cada universidade, bem como a pontuação para os fatores usados nos cálculos da pontuação geral. Os fatores empregados pela metodologia da QS na construção de seus rankings a partir de 2023 são os seguintes:
+
+- Reputação acadêmica;
+
+- Reputação entre empregadores ;
+- Proporção entre alunos e professores ;
+- Citações;
+- Proporção de professores estrangeiros;
+- Proporção de alunos estrangeiros ;
+- Colaboração pesquisadores estrangeiros;
+- Sucesso ex-alunos;
+- Sustentabilidade.
+
+A metodologia para a construção dos rankings sofreu alteração em 2023, para informações a respeito da metodologia empregada nos rankings anteriores a 2023 acesse o seguinte link:
 
 https://support.qs.com/hc/en-gb/articles/9051022681500-QS-World-University-Rankings-previous-methodology
 
@@ -54,20 +67,49 @@ https://support.qs.com/hc/en-gb/articles/4405955370898-QS-World-University-Ranki
 
 ## Resultados
 
-As 10 melhores universidades no ranking publicado pela QS em 2024 e os países de origem dessas universidades são apresentados na tabela a seguir. O MIT ocupa a primeira colocação e vem se mantendo nesta posição em todos os rankings analisados.
+### Top 10
 
-![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/top10_2025.png)
+As 10 melhores universidades do mundo segundo ranking QS publicado em 2024 e referente ao ano de 2025 (último disponível no momento da criação do projeto) e os países de origem dessas universidades são apresentadas na Tabela 1.
 
-O top 10 das melhores universidades do mundo é completamente dominado por universidades americanas e do Reino Unido. No último ranking publicado são 8 universidades desses dois países no top 10. Na Tabela a seguir é mostrado os países de origem das universidades que ocuparam o top 10 nos rankings anuais.
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/1-top10_2025.png)
 
-![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/paises_aparicoes_top_10.png)
+O top 10 de 2025 é  dominado por universidades  americanas e do Reino Unido, apenas duas universidades não são desses dois países. Essa hegemonia vem se repetindo desde 2017, conforme pode ser visto na Tabela 2.
 
-O top 100 das melhores universidades do mundo também é dominado por universidades americanas e do Reino .Das 100 melhores no ranking publicado em 2024, 40 delas são desses dois países. No top 100 entraram algumas universidades de países em desenvolvimento, entre elas universidade do Brasil, Argentina e México.
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/2-top_10_por_pais.png)
 
-![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/top100_mapa.png)
+### Primeira Colocada
 
-Entre as universidades brasileiras, a melhor colocada no ranking publicado em 2024 foi a USP, na posição 92. As 10 melhores brasileiras e suas posições no ranking geral são as seguintes:
+O MIT é a melhor universidade do mundo segundo o ranking QS e vem ocupando essa posição desde 2017. A melhor universidade do mundo a cada ano é apresentada na Tabela 3.
 
-![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/top10_brasileiras.png)
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/3-primeiras_colocadas.png)
+
+### Top 100
+
+O predomínio de universidades americanas e do Reino Unido encontrada entre as 10 melhores universidades do mundo permanece quando são consideradas as 100 melhores. Dentre as 100, 40 universidades estão nesses dois países, conforme pode ser visto na tabela 4.  Além disso, 63 delas estão na Europa ou na América do Norte, e somente 16 no hemisfério sul (Figura 1).
+
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/4-top100.png)
+
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/5-top100_mapa.png)
+
+### Rankings Específicos para Cada Fator
+
+Para o calculo da pontuação geral das universidades a QS adota uma metodologia que emprega nove fatores, são eles: reputação acadêmica, reputação entre empregadores, proporção ele alunos professores, citações, proporção de professores estrangeiros,proporção de alunos estrangeiros, colaboração com pesquisadores estrangeiros, sucesso de ex-alunos e Sustentabilidade . As universidades receberam uma nota para cada um desses nove fatores. A nota final é uma média ponderada desses  fatores. Na Tabela 5 as universidades aparecem ordenadas de acordo com os 4 fatores que tem maior peso (75% do total) para o calculo da nota geral, com O MIT aparecendo na liderança de todos eles.
+
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/6-top_fatores.png)
+
+### Universidades Brasileiras
+
+Entre as universidades brasileiras, a melhor colocada no ranking 2025 foi a USP, na posição 95. As 10 melhores brasileiras e suas posições no ranking geral são apresentadas na Tabela 6. A USP e a Unicamp vem se mantendo como as duas melhores brasileiras em todos os ranking publicados desde 2017.
+
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/7-top10_brasileiras.png)
+
+As universidades brasileiras ficam muito atrás dos centros de excelência mundiais. Na Tabela 7 são apresentadas as notas da USP e da Unicamp relativas a 2025 e dados estatísticos a respeito das 10 primeiras colocadas (Tabela 1). As universidades brasileiras não se sobressaem nem entre as latino-americanas, a USP ocupa a segunda posição entre as latino americanas e a segunda colocada brasileira está somente na nona posição (Tabela 8), desempenho ruim levando-se em conta o tamanho das economias dos países.
+
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/8-comparativo_top10_brasileiras.png)
+
+![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/9-top10_latino_americanas.png)
+
+
+
 
 
