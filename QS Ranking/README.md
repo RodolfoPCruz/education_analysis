@@ -8,6 +8,16 @@ Esse projeto apresenta uma análise dos rankings das melhores universidades do m
 
 Identificar quais são as melhores universidades do mundo segundo o QS World University Rankings e em que pontos elas se destacam. Verificar a distribuição geográfica das melhores universidades do mundo. Comparar o desempenho das universidades brasileiras com as melhores do mundo.
 
+## Resumo
+
+- O  Massachusetts Institute of Technology (MIT) é a melhor universidade do mundo no ranking referente a 2025;
+- A Universidade de Oxford mantém a primeira colocação desde 2017;
+- O top 10 de 2025 é dominado por universidades americanas e do Reino Unido, 8 no total. As duas restantes são da Suíça e de Singapura;
+- O top 100 é dominado por universidades da América do Norte e da Europa;
+- A USP é a universidade brasileira melhor colocada, ficando entre as 100 (92° posição) melhores para o ano de 2025;
+- USP e Unicamp são as duas melhores colocadas brasileiras desde 2017;
+- As universidades brasileiras estão muito atrás dos centros de excelência globais e não se sobressaem no ranking latino-americano.
+
 ## Instalação 
 
 Para o desenvolvimento desse projeto foi utilizada a distribuição Anaconda. Para reproduzir o ambiente usado é necessário instalar o Anaconda e em seguida criar o ambiente com o uso do arquivo enviroment.yml disponibilizado. O comando que deverá ser usado no terminal do linux para criação do ambiente é o seguinte:
