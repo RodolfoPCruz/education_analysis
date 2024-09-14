@@ -104,17 +104,17 @@ O predomínio de universidades americanas e do Reino Unido encontrada entre as 1
 
 ### Rankings Específicos para Cada Fator
 
-Para o calculo da pontuação geral das universidades a QS adota uma metodologia que emprega nove fatores, são eles: reputação acadêmica, reputação entre empregadores, proporção ele alunos professores, citações, proporção de professores estrangeiros,proporção de alunos estrangeiros, colaboração com pesquisadores estrangeiros, sucesso de ex-alunos e Sustentabilidade . As universidades receberam uma nota para cada um desses nove fatores. A nota final é uma média ponderada desses  fatores. Na Tabela 5 as universidades aparecem ordenadas de acordo com os 4 fatores que tem maior peso (75% do total) para o calculo da nota geral, com O MIT aparecendo na liderança de todos eles.
+Para o calculo da pontuação geral das universidades a QS adota uma metodologia que emprega nove fatores, são eles: reputação acadêmica, reputação entre empregadores, proporção entre alunos professores, citações, proporção de professores estrangeiros,proporção de alunos estrangeiros, colaboração com pesquisadores estrangeiros, sucesso de ex-alunos e sustentabilidade . As universidades receberam uma nota para cada um desses nove fatores. A nota final é uma média ponderada desses  fatores. Na Tabela 5 as universidades aparecem ordenadas de acordo com os 4 fatores que tem maior peso (75% do total) para o calculo da nota geral, com O MIT aparecendo na liderança de todos eles.
 
 ![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/6-top_fatores.png)
 
 ### Universidades Brasileiras
 
-Entre as universidades brasileiras, a melhor colocada no ranking 2025 foi a USP, na posição 95. As 10 melhores brasileiras e suas posições no ranking geral são apresentadas na Tabela 6. A USP e a Unicamp vem se mantendo como as duas melhores brasileiras em todos os ranking publicados desde 2017.
+Entre as universidades brasileiras, a melhor colocada no ranking 2025 foi a USP, na posição 95. As 10 melhores brasileiras e suas posições no ranking geral são apresentadas na Tabela 6. A USP e a Unicamp vem se mantendo como as duas melhores brasileiras em todos os rankings publicados desde 2017.
 
 ![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/7-top10_brasileiras.png)
 
-As universidades brasileiras ficam muito atrás dos centros de excelência mundiais. Na Tabela 7 são apresentadas as notas da USP e da Unicamp relativas a 2025 e dados estatísticos a respeito das 10 primeiras colocadas (Tabela 1). As universidades brasileiras não se sobressaem nem entre as latino-americanas, a USP ocupa a segunda posição entre as latino americanas e a segunda colocada brasileira está somente na nona posição (Tabela 8), desempenho ruim levando-se em conta o tamanho das economias dos países.
+As universidades brasileiras ficam muito atrás dos centros de excelência mundiais. Na Tabela 7 são apresentadas as notas da USP e da Unicamp relativas a 2025 e dados estatísticos a respeito das 10 primeiras colocadas (Tabela 1). As universidades brasileiras não se sobressaem nem entre as latino-americanas, a USP ocupa a segunda posição entre as latino-americanas e a segunda colocada brasileira está somente na nona posição (Tabela 8), desempenho ruim levando-se em conta o tamanho das economias dos países.
 
 ![](https://github.com/RodolfoPCruz/education_analysis/blob/master/QS%20Ranking/images/8-comparativo_top10_brasileiras.png)
 
