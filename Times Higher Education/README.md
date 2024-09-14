@@ -12,7 +12,7 @@ Esse projeto apresenta uma análise dos rankings das melhores universidades do m
 ## Resumo
 
 - A Universidade de Oxford é a melhor universidade do mundo em 2024 segundo o ranking THE;
-- A Universidade de Oxford mantém a primeira colocação desde 2027;
+- A Universidade de Oxford mantém a primeira colocação desde 2017;
 - O top 10 de 2024 é composto somente por universidades americanas e do Reino Unido;
 - O top 100 é dominado por universidades da América do Norte e da Europa;
 - A USP é a universidade brasileira melhor colocada, ficando entre as 250 melhores no ano de 2024;
