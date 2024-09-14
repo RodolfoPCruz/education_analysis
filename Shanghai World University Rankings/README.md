@@ -4,7 +4,21 @@
 
 Esse projeto apresenta uma análise dos rankings das melhores universidades do mundo publicados até 2009 pela Center for World-Class Universities (CWCU), Graduate School of Education da  Universidade Shanghai Jiao Tong e a partir de 2009 pela Shanghai Ranking Consultancy. Esse ranking é chamado de Academic Ranking of World Universities. Foram analisados os rankings publicados a partir de 2004 até o último disponível, de 2023.Investigou-se quais são as universidades que ocuparam as melhores colocações e quais são os países com maior número de universidades entre as melhores do mundo. Comparou-se o desempenho das universidades com relação a fatores como quantidade de vencedores de prêmios Nobel entre ex-alunos e entre professores, publicações científicas em revistas conceituadas,número  de pesquisadores com elevado número de citações em publicações relevantes,etc. Foi analisada a relação entre os fatores usados para a construção dos rankings. Por fim, foi examinado o desempenho das universidades brasileiras.
 
+## Objetivo
+
+Identificar quais são as melhores universidades do mundo segundo o QS World University Rankings e em que pontos elas se destacam. Verificar a distribuição geográfica das melhores universidades do mundo. Comparar o desempenho das universidades brasileiras com as melhores do mundo.
+
 ## Resumo
+
+- A Universidade de Harvard é a melhor universidade do mundo no ranking referente a 2023;
+- A Universidade de Harvard mantém a primeira colocação desde 2004;
+- O top 10 de 2023 é formado exclusivamente por universidades americanas e do Reino Unido;
+- O top 10 é composto pelas mesmas universidades desde 2004;
+- O top 100 é dominado por universidades da América do Norte e da Europa;
+- A USP é a universidade brasileira melhor colocada, ficando entre as 150 melhores para o ano de 2023;
+- A USP é a melhor brasileira desde 2004
+- As universidades brasileiras estão muito atrás dos centros de excelência globais, porém se destacam entre as latino-americanas.
+ 
 
 ## Instalação
 
