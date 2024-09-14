@@ -14,7 +14,8 @@ Para acrescentar informações a análise serão investigados alguns dados relat
 
 # Objetivo
 
-Buscar as melhores universidades do mundo em  três dos mais importantes rankings universitários e comparar o desempenho delas em cada um dos rankings. Analisar dados a respeito da educação nos países para buscar entender porque as universidades de certos países tem posição de destaque.
+- Buscar as melhores universidades do mundo em  três dos mais importantes rankings universitários e comparar o desempenho delas em cada um dos rankings; 
+- Analisar dados a respeito da educação nos países para buscar entender porque as universidades de certos países tem posição de destaque.
 
 # Resumo
 
