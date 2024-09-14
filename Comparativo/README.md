@@ -2,9 +2,7 @@
 
 # Melhores Universidades do Mundo
 
-Esse projeto apresenta as melhores universidades do mundo de acordo com três rankings diferentes: o World University Rankings publicado anualmente pela Times Higher Education (será chamado a partir de agora de THE), o QS Ranking publicado pela QS World University Rankings e o Academic Ranking of World Universities publicado pela Shanghai Ranking Consultancy.  Esses são três dos rankings universitários mais importantes e influentes.
-
-Para acrescentar informações a análise serão investigados alguns dados relativos a educação de diversos países. Os dados são os seguintes:
+Esse projeto apresenta as melhores universidades do mundo de acordo com três rankings diferentes: o World University Rankings publicado anualmente pela Times Higher Education (será chamado a partir de agora de THE), o QS Ranking publicado pela QS World University Rankings e o Academic Ranking of World Universities publicado pela Shanghai Ranking Consultancy.  Esses são três dos rankings universitários mais importantes e influentes.Para acrescentar informações a análise serão investigados alguns dados relativos a educação de diversos países. Os dados são os seguintes:
 
 - escolaridade média da população;
 - investimentos diretos públicos e privados em educação como fração do PIB;
