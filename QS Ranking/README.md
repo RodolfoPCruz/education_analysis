@@ -6,12 +6,14 @@ Esse projeto apresenta uma análise dos rankings das melhores universidades do m
 
 ## Objetivo
 
-Identificar quais são as melhores universidades do mundo segundo o QS World University Rankings e em que pontos elas se destacam. Verificar a distribuição geográfica das melhores universidades do mundo. Comparar o desempenho das universidades brasileiras com as melhores do mundo.
+-Identificar quais são as melhores universidades do mundo segundo o QS World University Rankings e em que pontos elas se destacam;
+-Verificar a distribuição geográfica das melhores universidades do mundo;
+-Comparar o desempenho das universidades brasileiras com as melhores do mundo.
 
 ## Resumo
 
 - O  Massachusetts Institute of Technology (MIT) é a melhor universidade do mundo no ranking referente a 2025;
-- A Universidade de Oxford mantém a primeira colocação desde 2017;
+- O MIT mantém a primeira colocação desde 2017;
 - O top 10 de 2025 é dominado por universidades americanas e do Reino Unido, 8 no total. As duas restantes são da Suíça e de Singapura;
 - O top 100 é dominado por universidades da América do Norte e da Europa;
 - A USP é a universidade brasileira melhor colocada, ficando entre as 100 (92° posição) melhores para o ano de 2025;
@@ -57,14 +59,13 @@ Os datasets consistem nos rankings das melhores universidades do mundo para cada
 Os datasets contam com a pontuação geral obtida por cada universidade, bem como a pontuação para os fatores usados nos cálculos da pontuação geral. Os fatores empregados pela metodologia da QS na construção de seus rankings a partir de 2023 são os seguintes:
 
 - Reputação acadêmica;
-
 - Reputação entre empregadores ;
 - Proporção entre alunos e professores ;
 - Citações;
 - Proporção de professores estrangeiros;
 - Proporção de alunos estrangeiros ;
-- Colaboração pesquisadores estrangeiros;
-- Sucesso ex-alunos;
+- Colaboração com pesquisadores estrangeiros;
+- Sucesso de ex-alunos;
 - Sustentabilidade.
 
 A metodologia para a construção dos rankings sofreu alteração em 2023, para informações a respeito da metodologia empregada nos rankings anteriores a 2023 acesse o seguinte link:
